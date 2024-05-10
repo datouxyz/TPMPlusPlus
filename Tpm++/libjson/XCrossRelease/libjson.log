@@ -1,0 +1,28 @@
+﻿  internalJSONNode.cpp
+e:\newcheck\libjson\_internal\source\jsondefs.h(159): fatal error C1189: #error: , Release build of libjson, but NDEBUG is not on
+  JSONAllocator.cpp
+  JSONChildren.cpp
+e:\newcheck\libjson\_internal\source\jsondefs.h(159): fatal error C1189: #error: , Release build of libjson, but NDEBUG is not on
+  JSONDebug.cpp
+e:\newcheck\libjson\_internal\source\jsondefs.h(159): fatal error C1189: #error: , Release build of libjson, but NDEBUG is not on
+  JSONIterators.cpp
+e:\newcheck\libjson\_internal\source\jsondefs.h(159): fatal error C1189: #error: , Release build of libjson, but NDEBUG is not on
+  JSONMemory.cpp
+e:\newcheck\libjson\_internal\source\jsondefs.h(159): fatal error C1189: #error: , Release build of libjson, but NDEBUG is not on
+  JSONNode.cpp
+e:\newcheck\libjson\_internal\source\jsondefs.h(159): fatal error C1189: #error: , Release build of libjson, but NDEBUG is not on
+  JSONNode_Mutex.cpp
+e:\newcheck\libjson\_internal\source\jsondefs.h(159): fatal error C1189: #error: , Release build of libjson, but NDEBUG is not on
+  JSONPreparse.cpp
+e:\newcheck\libjson\_internal\source\jsondefs.h(159): fatal error C1189: #error: , Release build of libjson, but NDEBUG is not on
+  JSONStream.cpp
+e:\newcheck\libjson\_internal\source\jsondefs.h(159): fatal error C1189: #error: , Release build of libjson, but NDEBUG is not on
+  JSONValidator.cpp
+e:\newcheck\libjson\_internal\source\jsondefs.h(159): fatal error C1189: #error: , Release build of libjson, but NDEBUG is not on
+  JSONWorker.cpp
+e:\newcheck\libjson\_internal\source\jsondefs.h(159): fatal error C1189: #error: , Release build of libjson, but NDEBUG is not on
+  JSONWriter.cpp
+e:\newcheck\libjson\_internal\source\jsondefs.h(159): fatal error C1189: #error: , Release build of libjson, but NDEBUG is not on
+  libjson.cpp
+e:\newcheck\libjson\_internal\source\jsondefs.h(159): fatal error C1189: #error: , Release build of libjson, but NDEBUG is not on
+  正在生成代码...

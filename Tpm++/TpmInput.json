@@ -1,0 +1,83 @@
+{    
+    "m_tissues": [ 
+        {
+            "m_ngaus": 1,
+            "m_NativeTissue_NativeSpace": true,
+            "m_NativeTissue_DartelImported": true,
+            "m_WarpTissue_Modulated": true,
+            "m_WarpTissue_UnModulated": true
+        },
+        {
+            "m_ngaus": 1,
+            "m_NativeTissue_NativeSpace": true,
+            "m_NativeTissue_DartelImported": true,
+            "m_WarpTissue_Modulated": true,
+            "m_WarpTissue_UnModulated": true
+        },
+        {
+            "m_ngaus": 2,
+            "m_NativeTissue_NativeSpace": true,
+            "m_NativeTissue_DartelImported": true,
+            "m_WarpTissue_Modulated": true,
+            "m_WarpTissue_UnModulated": true
+        },
+        {
+            "m_ngaus": 3,
+            "m_NativeTissue_NativeSpace": true,
+            "m_NativeTissue_DartelImported": true,
+            "m_WarpTissue_Modulated": true,
+            "m_WarpTissue_UnModulated": true
+        },
+        {
+            "m_ngaus": 4,
+            "m_NativeTissue_NativeSpace": true,
+            "m_NativeTissue_DartelImported": true,
+            "m_WarpTissue_Modulated": true,
+            "m_WarpTissue_UnModulated": true
+        },
+        {
+            "m_ngaus": 2,
+            "m_NativeTissue_NativeSpace": true,
+            "m_NativeTissue_DartelImported": true,
+            "m_WarpTissue_Modulated": true,
+            "m_WarpTissue_UnModulated": true
+        }
+    ],    
+    "m_Channels": [
+        {
+            "m_Bisareg": 0.001000,
+            "m_Biasfwhm": 60.000000,
+            "m_biascorrect": true,
+            "m_biasfield": true
+        }
+    ],
+    "m_nsample": 3,
+    "m_fwhm": 0.000000,
+    "m_reg": [
+        0.000000,
+        0.001000,
+        0.500000,
+        0.050000,
+        0.200000
+    ],
+    "m_lkp": [
+        1.000000,
+        2.000000,
+        3.000000,
+        3.000000,
+        4.000000,
+        4.000000,
+        4.000000,
+        5.000000,
+        5.000000,
+        5.000000,
+        5.000000,
+        6.000000,
+        6.000000
+    ],
+    "m_ptype": 0,
+    "m_dFieldInverse": true,
+    "m_dFieldForward": true,
+    "m_Mrf": false,
+    "m_Cleanup": 1
+}
