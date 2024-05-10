@@ -11,18 +11,19 @@ Parameter description:
 -in: Input image path 
 -tpm: TPM template path 
 -out: Output file path, the actual output file will add a suffix to this path: 
-_FieldInverse: Inverse deformation field 
-_FieldForward: Forward deformation field 
-_BiasCorrected: After bias correction 
-_BiasField: Bias field 
-_TissNative: Segmentation result (in original space) 
-_TissImported: Segmentation result (in Dartel space) 
-_TissModulate: Segmentation result (in imported space, after modulation)
- _TissUnModulate: Segmentation result (in imported space, before modulation)
+           _FieldInverse: Inverse deformation field 
+           _FieldForward: Forward deformation field 
+           _BiasCorrected: After bias correction 
+           _BiasField: Bias field 
+           _TissNative: Segmentation result (in original space) 
+           _TissImported: Segmentation result (in Dartel space) 
+           _TissModulate: Segmentation result (in imported space, after modulation)
+            _TissUnModulate: Segmentation result (in imported space, before modulation)
 -AffineOnly: //When set to 1, only the affine transformation is calculated and the affine matrix is output.
 -json: The json file that records all parameters of TPM operation. 
 The TpmInput.json file is a basic parameter case with a sample number of 3 and divided into 6 tissue types.
 Jsons sample：See TpmInput.json
+
 Folder description:
 Eigen-3.4.0: Eigen dependency package 
 ITK-prefix: ITK header files 
