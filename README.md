@@ -5,9 +5,14 @@ TPM++ is a C++ rewrite of the Tissue Probability Map in SPM12. It uses Eigen for
 By default, TPM++ does not use hyper-threading, as hyper-threading can no longer provide high performance.
 TPM++ provides a command-line program to calculate Wrap and perform image segmentation: The command is as follows: 
 
-**TPM++.exe -in image.nii -tpm D:/TPM.nii -out D:/_out.nii -json D:/tpminput.json -AffineOnly 0**
+**TPM++.exe -in image.nii -tpm D:/TPM.nii -out D:/_out.nii -json D:/tpminput.json -AffineOnly 0** <br>
+Test Case:<br>
+Input： <br>
+![Alt Text](https://github.com/datouxyz/TPMPlusPlus/blob/master/ReadMe.files/ReadMe3193.png) <br>
+Outputs:<br>
 
-
+![Alt Text](https://github.com/datouxyz/TPMPlusPlus/blob/master/ReadMe.files/ReadMe3251.png) ![Alt Text](https://github.com/datouxyz/TPMPlusPlus/blob/master/ReadMe.files/ReadMe3253.png)
+![Alt Text](https://github.com/datouxyz/TPMPlusPlus/blob/master/ReadMe.files/ReadMe3274.png) ![Alt Text](https://github.com/datouxyz/TPMPlusPlus/blob/master/ReadMe.files/ReadMe3276.png)<br>
 Parameter description:<br>
 -in: Input image path<br>
 -tpm: TPM template path<br>
@@ -126,4 +131,6 @@ Sitk: SITK header files <br>
 Libjson: jsonlibjson header files <br>
 SPMSRC: SPM native C code <br>
 Struct2x: Struct2x serialization library
+
+
 
