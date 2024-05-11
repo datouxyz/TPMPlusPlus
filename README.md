@@ -1,7 +1,7 @@
 # TPM++
 TPM++ Read Me
 
-TPM++ is an advanced C++ implementation of the Tissue Probability Map (TPM) originally found in SPM12. It leverages the Eigen library for efficient matrix operations, replacing the Matlab framework, and incorporates SimpleITK for image processing. The image format and coordinate space are fully compatible with the ITK standards. 
+TPM++ is an advanced C++ implementation of the Tissue Probability Map (TPM) originally found in Statistical Parametric Mapping. It leverages the Eigen library for efficient matrix operations, replacing the Matlab framework, and incorporates SimpleITK for image processing. The image format and coordinate space are fully compatible with the ITK standards. 
 
 Licensed under GPL v2, TPM++ not only replicates the results of SPM12 but also significantly enhances computational performance. It is designed to operate N times faster than SPM12, where N represents the number of physical CPU cores. 
 
