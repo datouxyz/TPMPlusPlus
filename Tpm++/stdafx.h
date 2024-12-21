@@ -5,7 +5,7 @@
 #include <vector>
 #include <mutex>
 #include <string>
-#include "struct2x/struct2x.h"
+
 
 #define Div255 1.0f/255.0f
 #define BYTE_TO_FLOAT(bt) (bt*Div255 )
